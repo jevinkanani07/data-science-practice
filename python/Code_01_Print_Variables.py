@@ -1,4 +1,4 @@
-# Day 01 
+# Code 01 
 # Topic :- Print Statements and Variables 
 
 print("Hello, Here a first Code")
